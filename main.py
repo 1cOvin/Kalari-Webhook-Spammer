@@ -24,4 +24,4 @@ delay = int()
 while True:
     time.sleep(0.1)
     webhookurl.send(message)
-    print(f'''{Fore.BLUE}[+] Succesfully Sended The Webhook'''+Fore.RESET)
+    print(f'''{Fore.BLUE}[+] Successfully Sended The Webhook'''+Fore.RESET)
